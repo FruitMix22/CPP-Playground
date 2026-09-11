@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/Corey/Work/Personal/CPP_Sandbox/build/cmake_install.cmake",
+		"C:/Users/Corey/Work/Personal/CPP_Sandbox/build/GameOfLife/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
